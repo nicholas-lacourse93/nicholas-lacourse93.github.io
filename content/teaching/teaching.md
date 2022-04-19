@@ -22,7 +22,7 @@ weight: 30
 # 2018
 
 - BEE1022: Introductions to Statistics (Undergraduate)
-- BEE1024: Mathematics for Economists (Undergraduate)
+- BEE1024: Mathematics for Economists (Undergraduate) What is happening!
 
 
 
