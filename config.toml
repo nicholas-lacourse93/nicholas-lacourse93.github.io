@@ -5,6 +5,10 @@ theme='barks'
 enableEmoji = true
 Copyright = "Copyright &copy; 2022 Nicholas Lacourse"
 
+[[menu.main]]
+name = "CV"
+weight = 50
+url = "/"
 
 [params.head]
     author = "Nicholas Lacourse"
