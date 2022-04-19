@@ -1,7 +1,6 @@
 ---
 title: "Test Post"
 date: 2022-04-18T23:24:54-05:00
-draft: false
 ---
 
 # Test Post 
