@@ -22,7 +22,7 @@ weight: 30
 # 2018
 
 - BEE1022: Introductions to Statistics (Undergraduate)
-- BEE1024: Mathematics for Economists (Undergraduate) What is happening!
+- BEE1024: Mathematics for Economists (Undergraduate)
 
 
 
@@ -30,4 +30,4 @@ weight: 30
 
 [//]: # "Footnotes"
 
-[^1]: This outcome is driven by COVID and may need to return back to the states for the remainder of my studies. 
+[^1]: This outcome is driven by COVID and my need to return back to the states for the remainder of my studies. 
