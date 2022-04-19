@@ -1,4 +1,4 @@
-baseURL = 'http://nicholas-lacourse93.hithub.io/'
+baseURL = 'https://nicholas-lacourse93.github.io/'
 languageCode = 'en-us'
 title = 'Nicholas Lacourse'
 theme='barks'
