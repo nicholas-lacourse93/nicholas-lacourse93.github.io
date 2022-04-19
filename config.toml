@@ -1,0 +1,11 @@
+baseURL = 'http://nicholas-lacourse93.hithub.io/'
+languageCode = 'en-us'
+title = 'Nicholas Lacourse'
+theme='barks'
+enableEmoji = true
+
+[params.head]
+    author = "Nicholas Lacourse"
+    # custom_css = "<url_to_custom_css_file>"
+    description = "This is an academic webpage for Nicholas Lacourse"
+    keywords = ["education", "science", "economics", "academic", "academia", "university"]
