@@ -3,9 +3,94 @@ languageCode = 'en-us'
 title = 'Nicholas Lacourse'
 theme='barks'
 enableEmoji = true
+Copyright = "Copyright &copy; 2022 Nicholas Lacourse"
+
 
 [params.head]
     author = "Nicholas Lacourse"
     # custom_css = "<url_to_custom_css_file>"
     description = "This is an academic webpage for Nicholas Lacourse"
     keywords = ["education", "science", "economics", "academic", "academia", "university"]
+
+[params.navigation]
+    show_navigation = true
+
+[params.footer]
+    show_footer = true
+
+[params.social]
+    [params.social.email]
+        name = "E-Mail"
+        class = "fas fa-envelope"
+        url = "mailto:nicholaslacourse.official@gmail.com"
+        weight = 1
+    [params.social.github]
+        name = "GitHub"
+        class = "fab fa-github"
+        url = "https://github.com/nicholas-lacourse93"
+        weight = 2
+    [params.social.google_scholar]
+        name = "Google Scholar"
+        class = "ai ai-google-scholar-square"
+        url = "[FILL IN]"
+        weight = 3
+    [params.social.discord]
+        name = "Discord"
+        class = "fab fa-discord"
+        url = ""
+        weight = 4
+    [params.social.twitch]
+        name = "Twitch"
+        class = "fab fa-twitch"
+        url = ""
+        weight = 5
+    [params.social.twitter]
+        name = "Twitter"
+        class = "fab fa-twitter"
+        url = ""
+        weight = 6
+    [params.social.instagram]
+        name = "Instagram"
+        class = "fab fa-instagram"
+        url = ""
+        weight = 7
+    [params.social.patreon]
+        name = "Patreon"
+        class = "fab fa-patreon"
+        url = ""
+        weight = 8
+    [params.social.kofi]
+        name = "Ko-Fi"
+        class = "fas fa-coffee"
+        url = ""
+        weight = 9
+    [params.social.youtube]
+        name = "YouTube"
+        class = "fab fa-youtube"
+        url = ""
+        weight = 10
+    [params.social.reddit]
+        name = "Reddit"
+        class = "fab fa-reddit"
+        url = ""
+        weight = 11
+    [params.social.university]
+        name = "My Institution"
+        class = "fas fa-university"
+        url = ""
+        weight = 12
+    [params.social.linkedin]
+        name = "LinkedIn"
+        class = "fab fa-linkedin"
+        url = ""
+        weight = 13
+    [params.social.orcid]
+        name = "ORCID"
+        class = "fab fa-orcid"
+        url = ""
+        weight = 14
+    [params.social.spotify]
+        name = "Spotify"
+        class = "fab fa-spotify"
+        url = ""
+        weight = 15
