@@ -1,2 +1,3 @@
-# nicholas-lacourse93.github.io
-My academic website
+# My Academic Page
+
+The GitHub page deployed off this repo is my academic page that is generated using Hugo.
