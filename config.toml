@@ -16,6 +16,12 @@ Copyright = "Copyright &copy; 2022 Nicholas Lacourse."
     description = "This is an academic webpage for Nicholas Lacourse"
     keywords = ["education", "science", "economics", "academic", "academia", "university"]
 
+[params.colors]
+    theme_color = "#333333"
+    background_color = "#fcfbf9"
+    text_color = "#333333"
+    link_color = "#e74c3c"
+
 [params.navigation]
     show_navigation = true
 
