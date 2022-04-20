@@ -3,12 +3,12 @@ languageCode = 'en-us'
 title = 'Nicholas Lacourse'
 theme='barks'
 enableEmoji = true
-Copyright = "Copyright &copy; 2022 Nicholas Lacourse"
+Copyright = "Copyright &copy; 2022 Nicholas Lacourse."
 
 [[menu.main]]
-name = "CV"
-weight = 50
-url = "/"
+    name = "CV"
+    weight = 50
+    url = "/"
 
 [params.head]
     author = "Nicholas Lacourse"
@@ -23,11 +23,11 @@ url = "/"
     show_footer = true
 
 [params.social]
-    [params.social.email]
-        name = "E-Mail"
-        class = "fas fa-envelope"
-        url = "mailto:nicholaslacourse.official@gmail.com"
-        weight = 1
+    # [params.social.email]
+    #     name = "E-Mail"
+    #     class = "fas fa-envelope"
+    #     url = "mailto:nicholaslacourse.official@gmail.com"
+    #     weight = 1
     [params.social.github]
         name = "GitHub"
         class = "fab fa-github"
@@ -38,16 +38,16 @@ url = "/"
         class = "ai ai-google-scholar-square"
         url = "[FILL IN]"
         weight = 3
-    [params.social.discord]
-        name = "Discord"
-        class = "fab fa-discord"
-        url = ""
-        weight = 4
-    [params.social.twitch]
-        name = "Twitch"
-        class = "fab fa-twitch"
-        url = ""
-        weight = 5
+    # [params.social.discord]
+    #     name = "Discord"
+    #     class = "fab fa-discord"
+    #     url = ""
+    #     weight = 4
+    # [params.social.twitch]
+    #     name = "Twitch"
+    #     class = "fab fa-twitch"
+    #     url = ""
+    #     weight = 5
     [params.social.twitter]
         name = "Twitter"
         class = "fab fa-twitter"
@@ -58,11 +58,11 @@ url = "/"
         class = "fab fa-instagram"
         url = ""
         weight = 7
-    [params.social.patreon]
-        name = "Patreon"
-        class = "fab fa-patreon"
-        url = ""
-        weight = 8
+    # [params.social.patreon]
+    #     name = "Patreon"
+    #     class = "fab fa-patreon"
+    #     url = ""
+    #     weight = 8
     [params.social.kofi]
         name = "Ko-Fi"
         class = "fas fa-coffee"
@@ -73,11 +73,11 @@ url = "/"
         class = "fab fa-youtube"
         url = ""
         weight = 10
-    [params.social.reddit]
-        name = "Reddit"
-        class = "fab fa-reddit"
-        url = ""
-        weight = 11
+    # [params.social.reddit]
+    #     name = "Reddit"
+    #     class = "fab fa-reddit"
+    #     url = ""
+    #     weight = 11
     [params.social.university]
         name = "My Institution"
         class = "fas fa-university"
@@ -93,8 +93,8 @@ url = "/"
         class = "fab fa-orcid"
         url = ""
         weight = 14
-    [params.social.spotify]
-        name = "Spotify"
-        class = "fab fa-spotify"
-        url = ""
-        weight = 15
+    # [params.social.spotify]
+    #     name = "Spotify"
+    #     class = "fab fa-spotify"
+    #     url = ""
+    #     weight = 15
