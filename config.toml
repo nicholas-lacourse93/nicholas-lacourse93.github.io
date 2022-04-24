@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Nicholas Lacourse'
 theme='barks'
 enableEmoji = true
-Copyright = "Copyright &copy; 2022 Nicholas Lacourse."
+Copyright = "Copyright &copy; 2022 Nicholas Lacourse. CC0 License"
 
 [[menu.main]]
     name = "CV"
