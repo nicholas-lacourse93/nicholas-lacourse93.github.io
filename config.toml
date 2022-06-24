@@ -42,7 +42,7 @@ Copyright = "Copyright &copy; 2022 Nicholas Lacourse. CC0 License."
     [params.social.google_scholar]
         name = "Google Scholar"
         class = "ai ai-google-scholar-square"
-        url = "[FILL IN]"
+        url = ""
         weight = 3
     # [params.social.discord]
     #     name = "Discord"
@@ -74,11 +74,11 @@ Copyright = "Copyright &copy; 2022 Nicholas Lacourse. CC0 License."
         class = "fas fa-coffee"
         url = ""
         weight = 9
-    [params.social.youtube]
-        name = "YouTube"
-        class = "fab fa-youtube"
-        url = ""
-        weight = 10
+    # [params.social.youtube]
+    #     name = "YouTube"
+    #     class = "fab fa-youtube"
+    #     url = ""
+    #     weight = 10
     # [params.social.reddit]
     #     name = "Reddit"
     #     class = "fab fa-reddit"
@@ -89,11 +89,11 @@ Copyright = "Copyright &copy; 2022 Nicholas Lacourse. CC0 License."
         class = "fas fa-university"
         url = ""
         weight = 12
-    [params.social.linkedin]
-        name = "LinkedIn"
-        class = "fab fa-linkedin"
-        url = ""
-        weight = 13
+    # [params.social.linkedin]
+    #     name = "LinkedIn"
+    #     class = "fab fa-linkedin"
+    #     url = ""
+    #     weight = 13
     [params.social.orcid]
         name = "ORCID"
         class = "fab fa-orcid"
