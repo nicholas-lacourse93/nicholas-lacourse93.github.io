@@ -29,21 +29,21 @@ Copyright = "Copyright &copy; 2022 Nicholas Lacourse. CC0 License."
     show_footer = true
 
 [params.social]
-    # [params.social.email]
-    #     name = "E-Mail"
-    #     class = "fas fa-envelope"
-    #     url = "mailto:nicholaslacourse.official@gmail.com"
-    #     weight = 1
+    [params.social.email]
+        name = "E-Mail"
+        class = "fas fa-envelope"
+        url = "mailto:nicholas.lacourse@proton.me"
+        weight = 1
     [params.social.github]
         name = "GitHub"
         class = "fab fa-github"
         url = "https://github.com/nicholas-lacourse93"
         weight = 2
-    [params.social.google_scholar]
-        name = "Google Scholar"
-        class = "ai ai-google-scholar-square"
-        url = ""
-        weight = 3
+    # [params.social.google_scholar]
+    #     name = "Google Scholar"
+    #     class = "ai ai-google-scholar-square"
+    #     url = ""
+    #     weight = 3
     # [params.social.discord]
     #     name = "Discord"
     #     class = "fab fa-discord"
@@ -57,12 +57,12 @@ Copyright = "Copyright &copy; 2022 Nicholas Lacourse. CC0 License."
     [params.social.twitter]
         name = "Twitter"
         class = "fab fa-twitter"
-        url = ""
+        url = "https://twitter.com/nick_lacourse"
         weight = 6
     [params.social.instagram]
         name = "Instagram"
         class = "fab fa-instagram"
-        url = ""
+        url = "https://www.instagram.com/_nicholas_lacourse/"
         weight = 7
     # [params.social.patreon]
     #     name = "Patreon"
@@ -72,7 +72,7 @@ Copyright = "Copyright &copy; 2022 Nicholas Lacourse. CC0 License."
     [params.social.kofi]
         name = "Ko-Fi"
         class = "fas fa-coffee"
-        url = ""
+        url = "https://ko-fi.com/nicholaslacourse"
         weight = 9
     # [params.social.youtube]
     #     name = "YouTube"
@@ -87,7 +87,7 @@ Copyright = "Copyright &copy; 2022 Nicholas Lacourse. CC0 License."
     [params.social.university]
         name = "My Institution"
         class = "fas fa-university"
-        url = ""
+        url = "https://business-school.exeter.ac.uk/about/departments/economics/"
         weight = 12
     # [params.social.linkedin]
     #     name = "LinkedIn"
@@ -97,7 +97,7 @@ Copyright = "Copyright &copy; 2022 Nicholas Lacourse. CC0 License."
     [params.social.orcid]
         name = "ORCID"
         class = "fab fa-orcid"
-        url = ""
+        url = "https://orcid.org/0000-0003-2092-7017"
         weight = 14
     # [params.social.spotify]
     #     name = "Spotify"
