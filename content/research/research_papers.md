@@ -7,14 +7,13 @@ weight: 20
 
 # Working Papers[^1]
 
-1. **Sunk Costs in Performance Beliefs**
-2. **Art Is In the Eye of the Beholder: Judgements From Subjective Output**
+1. **Talent, Sorting, and Redistributive Uncertainty** (with Oliver Hauser)
+2. **Sunk Costs in Performance Beliefs**
+3. **Art Is In the Eye of the Beholder: Judgements From Subjective Output**
 
 # Work in Progress
 
-3. **Gender, Merit, and the Cost of Redistribution** (with Oliver Hauser)
-4. **Allocation Ambiguity** (with Oliver Hauser)
-5. **I Like Information, But Not From You: The Effects of Gender and Racial Salience on Performance Beliefs**
+4. **I Like Information, But Not From You: The Effects of Gender and Racial Salience on Performance Beliefs**
 
 
 [//]: # "Footnotes"

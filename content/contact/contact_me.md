@@ -5,14 +5,8 @@ menu: main
 weight: 60
 ---
 
-If you are a fellow academic and you are interested in collaboration on a project or want to reach out with a question regarding some of my work please contact me at my institutional addresses below:
+If you are a fellow academic or someone from industry that would like to collaborate on any work or have any questions, suggestions, or advice about my work, you can reach me most easily with the below contacts:
 
-Email : [nl362@exeter.ac.uk](mailto:nl362@exeter.ac.uk)
+Email : [nicholaslacourse.official@gmail.com](mailto:nicholaslacourse.official@gmail.com)
 
-Office # : (936) 689-2207
-
-If you are from industry and are looking for consultation please email or call me at my personal addresses below:
-
-Email : [nicholas.lacourse@proton.me](mailto:nicholas.lacourse@proton.me)
-
-Personal # : (936) 689-2207
+Personal Mobile # : +1 (936) 689-2207

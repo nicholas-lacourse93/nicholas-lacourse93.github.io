@@ -5,7 +5,7 @@ menu: main
 weight: 30
 ---
 
-# 2021 - 2022
+# 2021 - 2024
 
 - *I am currently not assisting or leading any modules for either undergraduate or graduate programs.*[^1]
 
