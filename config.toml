@@ -8,7 +8,7 @@ Copyright = "Copyright &copy; 2024 Nicholas Lacourse. CC0 License."
 [[menu.main]]
     name = "CV"
     weight = 50
-    url = "https://nicholas-lacourse93.github.io/files/nicholas_lacourse_cv.pdf"
+    url = "https://nicholas-lacourse93.github.io/files/job_related/nicholas_lacourse_cv.pdf"
 
 [params.head]
     author = "Nicholas Lacourse"
