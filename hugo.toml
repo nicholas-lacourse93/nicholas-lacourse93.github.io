@@ -1,0 +1,47 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Nicholas Lacourse'
+theme = 'typo'
+
+[params]
+    theme = 'light'
+    homeIntroContent = """
+I am a final year PhD candidate in the Department of Economics at the University of Exeter. My supervisors are Brit Grosskopf and Oliver Hauser.
+
+In my research, I am primarily interested in the study of belief formation and its impact on labour markets. In particular, I’m currently exploring how people update beliefs about themselves when they have to incur independent transaction costs to observe information. I am also investigating how third parties hold redistributive preferences over labourers' sorting decisions when there is incomplete information about the labourers' preferences.
+
+Contact me: nicholaslacourse.official@gmail.com
+"""
+
+[[params.menu]]
+name = "home"
+url = "/"
+
+# [[params.menu]]
+# name = "posts"
+# url = "/posts"
+
+# [[params.menu]]
+# name = "about"
+# url = "/about"
+
+[[params.menu]]
+name = "research"
+url = "/research"
+
+[[params.menu]]
+name = "teaching"
+url = "/teaching"
+
+[[params.menu]]
+name = "cv"
+url = "/files/personal_docs/lacourse_cv_09-07-24.pdf"
+newTab = true
+
+[[params.social]]
+name = "email"
+url = "mailto:nicholaslacourse.official@gmail.com"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/nicholas-lacourse93"
