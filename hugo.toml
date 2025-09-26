@@ -6,9 +6,9 @@ theme = 'typo'
 [params]
     theme = 'light'
     homeIntroContent = """
-I am a final year PhD candidate in the Department of Economics at the University of Exeter. My supervisors are Brit Grosskopf and Oliver Hauser.
+I am a recently graduated doctorate of economics from the University of Exeter.
 
-In my research, I am primarily interested in the study of belief formation and its impact on labour markets. In particular, I’m currently exploring how people update beliefs about themselves when they have to incur independent transaction costs to observe information. I am also investigating how third parties hold redistributive preferences over labourers' sorting decisions when there is incomplete information about the labourers' preferences.
+I have broad knowledge across many fields of economics, but my academic work primarily rests within the belief formation literature. As of 2025, I am exploring how people update beliefs about themselves when they have to incur transaction costs to observe information, and how such a behavior varies across a wide range of characteristics.
 
 Contact me: nicholaslacourse.official@gmail.com
 """
@@ -34,8 +34,8 @@ name = "teaching"
 url = "/teaching"
 
 [[params.menu]]
-name = "cv"
-url = "/files/personal_docs/lacourse_cv_09-07-24.pdf"
+name = "resume"
+url = "/files/personal_docs/resume.pdf"
 newTab = true
 
 [[params.social]]

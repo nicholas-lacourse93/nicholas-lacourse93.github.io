@@ -21,12 +21,15 @@ Here I provide abstracts to all current working papers along with a simple list 
 
 *JEL: C91, D91, J10, J15*
 
+**Talent, Sorting, and Redistributive Uncertainty** (with *Oliver Hauser*)
+
+**Abstract:** *We investigate how third-party observers ("spectators") judge workers using talents for higher pay to donate parts. Workers make dictator allocations, later redistributed by spectators. We find that under payoff ambiguity spectators assume workers choose efficiently, so revealing efficient allocations does not further alter redistributive preferences. At the extensive margin, we observe that efficiency considerations are inelastic when deciding whether to intervene on extreme inequity, while equity faces increased odds of intervention only if inefficient. At the intensive margin, spectators punish inequity and reward equity; revealing inefficiency intensifies both punishment and reward. Spectators value punishing inequity more than punishing deviations from efficiency via inequity, and value rewarding sacrifice for equity more than simply choosing equity. These findings illuminate social preferences and trade-offs between equity, efficiency, and the possible veil that can occur between the two.*
+
+*JEL: C91, D01, D63, D83*
+
 ## Selected Works in Progress
 
 ---
-
-**Talent, Sorting, and Redistributive Uncertainty** (with *Oliver Hauser*)
-- Initial Draft Completed, Revisions in Progress
 
 **I Like Information, But Not From You: The Effects of Names on Self-Updating**
 - Data Collection in Progress
